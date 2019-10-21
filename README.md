@@ -1,3 +1,5 @@
+# This Fork doesn't have anything todo with the original ( https://github.com/grant-h/qu1ckr00t ) just a backup
+
 # qu1ckr00t
 A PoC application demonstrating the power of an Android kernel arbitrary R/W (CVE-2019-2215). Writeup: https://hernan.de/blog/2019/10/15/tailoring-cve-2019-2215-to-achieve-root/
 
